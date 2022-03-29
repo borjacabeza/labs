@@ -6,7 +6,7 @@ namespace Sopra.Labs.ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hola Mundo !!!");
         }
     }
 }
