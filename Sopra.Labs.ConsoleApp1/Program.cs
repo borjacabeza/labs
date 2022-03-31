@@ -19,8 +19,8 @@ namespace Sopra.Labs.ConsoleApp1
                 Console.WriteLine("*  LABS Y EJERCICIOS".PadRight(55) + "*");
                 Console.WriteLine("".PadRight(56, '*'));
                 Console.WriteLine("*".PadRight(55) + "*");
-                Console.WriteLine("*  1. Calcular Letra DNI".PadRight(55) + "*");
-                Console.WriteLine("*  2. Tabla de Multiplicar".PadRight(55) + "*");
+                Console.WriteLine("*  1. Calcular letra DNI".PadRight(55) + "*");
+                Console.WriteLine("*  2. Tabla de multiplicar".PadRight(55) + "*");
                 Console.WriteLine("*  3. Secuencia numérica".PadRight(55) + "*");
                 Console.WriteLine("*  4. Calcular valores".PadRight(55) + "*");
                 Console.WriteLine("*  9. Salir".PadRight(55) + "*");
