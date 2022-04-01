@@ -19,7 +19,6 @@ Consultas básicas de las colecciones del objeto DataList con LINQ
 * Producto con el precio más alto
 * Precio medio de todos los productos
 * Productos con un precio inferior a la media
-
 &nbsp;
 ---
 &nbsp;
