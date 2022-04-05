@@ -59,7 +59,15 @@ Consultas básicas utilizando EntityFramerworkCore y LINQ
 &nbsp;
 ---
 &nbsp;
-### ***EJERCICIOS EXTRA FIN DE SEMANA***
+### 04-Abr-2022 y 05-Abr-2022 ***Sopra.Labs.ConsoleApp5***
+* Geo-localizar direcciones IP
+* Consultar información códigos postales
+* Consultar autobuses/paradas EMT
+* Consultar plazas parkings de Madrid
+&nbsp;
+---
+&nbsp;
+### del 29-Abr al 01-May ***EJERCICIOS EXTRA FIN DE SEMANA***
 * Listado de unidades vendidas de cada producto ordenado por número total de unidad
 * SELECT ProductID, SUM(Quantity) AS Quantity FROM dbo.[Order Details] GROUP BY ProductID ORDER BY Quantity
 ---
